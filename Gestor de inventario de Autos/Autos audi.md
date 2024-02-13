@@ -1,58 +1,44 @@
-# CRM Frutayapp
+# Sistema gestor de inventario de autos - Audi
 
 <p align="center">
-  <img src=FRUTAYAPP_Github.jpg alt="Logo de la empresa"/>
+  <img src=Logo.png alt="Logo de la empresa"/>
 </p>
 
 ---
 ## 1. About
 
-El presente repositorio cumple con el fin mostrar mis trabajos realizados, por ello solo muestro imagenes (ventanas y esquema de base de datis) y texto descriptivo del mismo, y mas no el codigo por temas de confidencialidad. 
+El presente repositorio cumple con el fin mostrar mis trabajos realizados, por ello solo muestro imagenes (ventanas y esquema de base de datos) y texto descriptivo del mismo, y mas no el código por temas de confidencialidad. 
 
-Software hecho en VBA con base de datos en MySQL, para el control de productos desde el lugar de produccion - transporte - embarque y entrega.
+Software hecho en VBA con base de datos en Access, para el control de inventarios de autos Audi, para luego enviar el reporte del inventario a los clientes mediante Whatsapp (envio directo desde VBA).
 
 ---
 
 ## 2. Home
 - Pagina principal *Home* con acceso a las diferentes secciones del proyecto.
 
-![Home](image-1.png "Pagina de inicio")
+![Home](image.png "Pagina de inicio")
 
 ---
-## 3. Contacts
-- Seccion *Contacts* en donde se muestra información de contacto.
+## 3. Autos
+- Seccion *Autos* en donde se muestra información de los autos Audi.
 
-![Contact](image-2.png "Formulario de contactos")
-
----
-## 4. Products
-- Seccion *Products* en donde se muestra información de productos de tipo ***Produce***.
-
-![Productos](image-3.png "Formulario de Productos Produce")
-
-- Seccion *Products* en donde se muestra información de productos de tipo ***Spices***.
-
-![Productos](image-4.png "Formulario de Productos Produce")
+![Autos](image-2.png "Formulario de autos")
 
 ---
-## 5. Negotiation
-- Seccion *Negotiation* en donde se registra la primera etapa de la negociación.
+## 4. Plantilla de envio
+- Seccion *plantilla* del cual se llena para antes del envio.
 
-![Negociación](image-5.png "Formulario de Negociación")
-
----
-## 6. Shipping
-- Seccion *Shipping* en donde se registra el envio de los productos.
-
-![Envio](image-6.png "Formulario de Envio")
+![plantilla](image-3.png "Plantilla para el envio a los clientes")
 
 ---
-## 7. Freight
-- Seccion *Freight* en donde se registra el transportes para los productos.
+## 5. Envio
+- Seccion *Envio* en donde se personaliza el mensaje, tiempo de demora para el envio, tiempo de carga del pdf, todo esto se envia directamente al whatsapp del cliente (Whatsapp desktop).
 
-![Transporte](image-7.png "Formlario de transporte")
+![Envio](image-4.png "Formulario de envio")
 
-## 8. Diagrama de la base de datos
-- Base de datos hecho en MySQL, a continuacion semuestra el diagrama de la base de datos.
+---
 
-![alt text](image-8.png)
+## 6. Diagrama de la base de datos
+- Base de datos hecho en Access, a continuacion semuestra el diagrama de la base de datos.
+
+![Diagrama de base de datos](image-5.png "Formulario de envio")
