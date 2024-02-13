@@ -1,2 +1,1 @@
 ### CRM Frutayapp
-## Comenzando 🚀��_
