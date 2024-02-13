@@ -7,7 +7,7 @@ Se describe cada trabajo a partir de cada archivo de tipo .md.
 
 - [Gestor de inventarios de Autos AUDI](https://github.com/Miqueas7/Repositorio-Freelancer/blob/b5f8d116962d2c71c917861baaf6f4140c9ce90c/Gestor%20de%20inventario%20de%20Autos/Autos%20audi.md "Gestor de inventarios de Autos AUDI")
 
-- [Sistema geotécnico / Jr Geoconsultores](https://github.com/Miqueas7/Repositorio-Freelancer/blob/main/CRM%20Frutayapp.md "Sistema geotécnico / Jr Geoconsultores")
+- [Sistema geotécnico / Jr Geoconsultores](https://github.com/Miqueas7/Repositorio-Freelancer/blob/759d8fd933e95235a6edf40c12cb97006fcf4b7c/Sistema%20Geotecnico_Jr%20Geoconsultores/SistemaGeotecnico.md "Sistema geotécnico / Jr Geoconsultores")
 - [Sistema cotizador geotécnico](https://github.com/Miqueas7/Repositorio-Freelancer/blob/main/CRM%20Frutayapp.md "Sistema cotizador geotécnico")
 - [Sistema geotécnico / Akhise IC SAC](https://github.com/Miqueas7/Repositorio-Freelancer/blob/main/CRM%20Frutayapp.md "Sistema geotécnico / Akhise IC SAC")
 - [Gastos de habitaciones](https://github.com/Miqueas7/Repositorio-Freelancer/blob/main/CRM%20Frutayapp.md "Gastos de habitaciones")
