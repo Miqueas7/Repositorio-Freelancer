@@ -3,7 +3,7 @@ Repositorio para describir los trabajos realizados como freelancer.
 
 Se describe cada trabajo a partir de cada archivo de tipo .md.
 
-- [Software de Ventilación](https://github.com/Miqueas7/Repositorio-Freelancer/blob/047a4604993c4f7c984b68ed5064716f4c5c56db/CRM%20Frutayapp/CRM%20Frutayapp.md "Ventilación")
+- [Software de Ventilación](https://github.com/Miqueas7/Repositorio-Freelancer/blob/21cf5574272bd2405594b33a4e4bf7d88af01ae5/Software%20de%20ventilacion/Software_Ventilacion.md "Ventilación")
 
 - [CRM Frutayapp](https://github.com/Miqueas7/Repositorio-Freelancer/blob/047a4604993c4f7c984b68ed5064716f4c5c56db/CRM%20Frutayapp/CRM%20Frutayapp.md "CRM Frutayapp")
 
