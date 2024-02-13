@@ -1,7 +1,7 @@
-# Sistema Geotecnico / JR Geoconsultores
+# Software Ventilación / VPS Consulting
 
 <p align="center">
-  <img src=JR.png alt="Logo de la empresa"/>
+  <img src=vps.png alt="Logo de la empresa"/>
 </p>
 
 ---
@@ -11,37 +11,47 @@ El presente repositorio cumple con el fin mostrar mis trabajos realizados, por e
 
 Software hecho en Python, con base de datos SQLite, para el calculo de cobertura de una mina en base a parametros dichos en el DS 023-2017 EM.
 
----
-
-## 2. Home
-- Pagina principal *Home* con acceso a las diferentes secciones del proyecto.
-
-![Home](image.png "Pagina de inicio")
+<p align="center">
+  <img src=image.png alt="Logo de la empresa"/>
+</p>
 
 ---
-## 3. Inicio de un proyecto
-- Seccion *Inicio* en donde se da los primeros parametros para el inicio de los ensayos.
 
-![Inicio](image-1.png "Formulario de inicio")
+## 2. Login
+- Pagina *Login* para el control de acceso.
+
+![Home](image-1.png "Pagina de inicio")
 
 ---
-## 4. Ensayos estandar
-- Seccion *Ensayos estandar* del cual se inicia un estudio de mecanica de suelos.
+## 3. Panel inicial
+- Seccion *Principal* en donde se muestran los menus de los acessos.
 
-![Ensayos](image-2.png "Ensayos estandar ASTM")
+![Inicio](image-2.png "Formulario de inicio")
+
 ---
-## 5. Metodo A y B para clasificacion de suelos
-- Seccion *Envio* en donde se personaliza el mensaje, tiempo de demora para el envio, tiempo de carga del pdf, todo esto se envia directamente al whatsapp del cliente (Whatsapp desktop).
+## 4. Requerimiento por personal
+- Seccion *Requerimiento por personal* del cual se determina en base a la cota de la mina el caudal minimo por persona y ademas se debe de ingresar el numero de personas por guardia para luego calcular el requerimiento por persona.
 
-![ensayos](image-3.png "Ensayos ")
+![Personal](image-3.png "Requerimiento por personal")
+
+---
+## 5. Requerimiento por altas temperaturas
+- Seccion *Requerimiento por temperatura* del cual se determina en base a labores que tengan Temperaturas superiores a 24 °C y la seccion promedio de estas labores.
+
+![Temperatura](image-4.png "Temperatura")
+
 ---
 
-## 6. Todas las hojas de calculo que contiene
-- Todas las hojas de calculo que se crearon cumpliendo cada una de la normativas.
+## 6. Requerimiento por Equipos Diesel
+- Seccion *Requerimiento por Equipos Diesel* del cual se determina en base a la potencia nominal del equipo, rendimiento, disponibilidad mecanica, factor de utilizacion y factor de altura.
 
-![Ensayos](image-4.png "Ensayos")
+![Equipos Diesel](image-5.png "Equipos Diesel")
 
-## 7. Automatizacion de dibujo en CAD
-- Automatizacion de dibujo en CAD, a partir de un resumen de calicatas.
+---
 
-![CAD](image-5.png "Dibujo en CAD")
+## 7. Requerimiento por fugas
+- Seccion *Requerimiento por Fugas* del cual se determina en base a la suma de los requerimientos anteriores multiplicado por 15%.
+
+![Fugas](image-6.png "Fugas")
+
+##### CONTINUARA ...
