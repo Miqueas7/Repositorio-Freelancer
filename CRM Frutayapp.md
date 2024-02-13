@@ -1,6 +1,8 @@
 # CRM Frutayapp
 
-![Logo de la empresa](FRUTAYAPP_Github.jpg "Logo de la empresa")
+<p align="center">
+  <img src=FRUTAYAPP_Github.jpg alt="Logo de la empresa"/>
+</p>
 
 ---
 ## 1. About
