@@ -9,7 +9,7 @@
 
 El presente repositorio cumple con el fin mostrar mis trabajos realizados, por ello solo muestro imagenes (ventanas y esquema de base de datos) y texto descriptivo del mismo, y mas no el código por temas de confidencialidad. 
 
-Software hecho en Python, con base de datos SQLite, para el calculo de cobertura de una mina en base a parametros dichos en el DS 023-2017 EM.
+Software hecho en Python3, con base de datos SQLite, para el calculo de cobertura de una mina en base a parametros dichos en el DS 023-2017 EM.
 
 <p align="center">
   <img src=image.png alt="Logo de la empresa"/>
